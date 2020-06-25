@@ -13,7 +13,7 @@ const Navtop = () => {
     return (
         <div>
             <Divstyled>
-                <b>Tour of heros</b>
+                <b>Tour of heroes</b>
                 <div>
                     <Buttonstyled variant="contained" onClick={gotohome} style={{marginRight:20}}>
                     Dashboard
